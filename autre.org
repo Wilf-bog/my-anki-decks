@@ -18,3 +18,34 @@ Quelle est la commande qui permet de faire des liens symboliques?
 Quand je veux créer un lien symbolique, dans quel ordre vont =nomdulien= et =nomdufichier=?
 ** Back
 =nomdufichier= =nomdulien=
+* Qu'est-ce que touche l'accessibilité universelle                  :exaequo:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: Général
+:END:
+** Front
+Quels sont les 5 éléments couverts par la définition de l'accessibilité universelle du Groupe DÉFI Accessibilité?
+** Back
+1. Les produits;
+2. Les procédés;
+3. Les services;
+4. Les informations;
+5. Les environnements.
+* Le but porté par l'accessibilité universelle                      :exaequo:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: Général
+:END:
+** Front
+Quel est le but derrière l'accessibilité universelle selon le Groupe DÉFI Accessibilité?
+** Back
+L'accessibilité Universelle agit dans un but d'équité.
+* L'augmentation de l'offre n'est pas une solution à la crise du logement :exaequo:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: Général
+:END:
+** Front
+Pourquoi l'augmentation de l'offre n'est pas une bonne solution à la crise du logement?
+** Back
+Parce que trop souvent les nouveaux logements sont trop chers et sans contrôle des loyens, rien n'empêchent les propriétaires d'augmenter leur loyer.
