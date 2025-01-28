@@ -1,0 +1,77 @@
+* Influence de Proudhon
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: espagnol personnel
+:ANKI_NOTE_ID: 1737940362934
+:END:
+** Front
+El pensamiento de Proudhon impresionó fuertemente a Marx (quien trató de demolerlo teóricamente en 1847), a Stirner, en Alemania, y a Bakunin, en Rusia.
+
+** Back
+La pensée de Proudhon a fortement impressionné Marx (qui a tenté de la démolir théoriquement en 1847), Stirner en Allemagne et Bakounine en Russie.
+* Fortement
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1737944322079
+:END:
+** Front
+fuertemente
+** Back
+fortement
+* Pensée
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1737944193727
+:END:
+** Front
+pensamiento
+** Back
+pensée, thoughts
+* Théoriquement
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1737944321977
+:END:
+** Front
+teóricamente
+** Back
+théoriquement
+* Démolir
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1737944322029
+:END:
+** Front
+demolerlo
+** Back
+démolir
+* Naturisme
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: espagnol personnel
+:ANKI_NOTE_ID: 1737948086483
+:END:
+** Front
+El naturismo promovía un punto de vista ecologista, pequeñas comunas ecológicas, y más prominentemente el nudismo como una forma de evitar la artificialidad de la sociedad industrial de masas.
+** Back
+Le naturisme a promu un point de vue écologique, de petites communes écologiques et, surtout, le nudisme comme moyen d'éviter l'artificialité de la société industrielle de masse.
+* Point de vue
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: espagnol personnel
+:ANKI_NOTE_ID: 1737948127902
+:END:
+** Front
+un punto de vista
+** Back
+un point de vue
+* Promouvoir
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: espagnol personnel
+:ANKI_NOTE_ID: 1737948301979
+:END:
+** Front
+Promover
+** Back
+Promouvoir
