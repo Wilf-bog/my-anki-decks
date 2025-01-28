@@ -1,0 +1,20 @@
+* Lien symboliques
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: Général
+:END:
+** Front
+Quelle est la commande qui permet de faire des liens symboliques?
+** Back
+#+begin_src shell
+  ln -s ...
+#+end_src
+* Ordre lien symbolique
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: Général
+:END:
+** Front
+Quand je veux créer un lien symbolique, dans quel ordre vont =nomdulien= et =nomdufichier=?
+** Back
+=nomdufichier= =nomdulien=
