@@ -2,6 +2,7 @@
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: Général
+:ANKI_FAILURE_REASON: cannot create note because it is a duplicate
 :END:
 ** Front
 Quelle est la commande qui permet de faire des liens symboliques?
@@ -13,6 +14,7 @@ Quelle est la commande qui permet de faire des liens symboliques?
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: Général
+:ANKI_FAILURE_REASON: cannot create note because it is a duplicate
 :END:
 ** Front
 Quand je veux créer un lien symbolique, dans quel ordre vont =nomdulien= et =nomdufichier=?
@@ -22,6 +24,7 @@ Quand je veux créer un lien symbolique, dans quel ordre vont =nomdulien= et =no
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: Général
+:ANKI_NOTE_ID: 1738114818103
 :END:
 ** Front
 Quels sont les 5 éléments couverts par la définition de l'accessibilité universelle du Groupe DÉFI Accessibilité?
@@ -35,6 +38,7 @@ Quels sont les 5 éléments couverts par la définition de l'accessibilité univ
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: Général
+:ANKI_NOTE_ID: 1738114818153
 :END:
 ** Front
 Quel est le but derrière l'accessibilité universelle selon le Groupe DÉFI Accessibilité?
@@ -44,8 +48,76 @@ L'accessibilité Universelle agit dans un but d'équité.
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: Général
+:ANKI_NOTE_ID: 1738114818262
 :END:
 ** Front
 Pourquoi l'augmentation de l'offre n'est pas une bonne solution à la crise du logement?
 ** Back
 Parce que trop souvent les nouveaux logements sont trop chers et sans contrôle des loyens, rien n'empêchent les propriétaires d'augmenter leur loyer.
+* Qui a théorisé la dissonance cognitive?
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: Général
+:ANKI_NOTE_ID: 1738118198605
+:END:
+** Front
+Qui a théorisé la dissonance cognitive?
+** Back
+Le sociopsychologue Leon Festinger
+* Définition dissonance cognitice
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: Général
+:ANKI_NOTE_ID: 1738118198670
+:END:
+** Front
+Qu'est-ce que la dissonance cognitive?
+** Back
+Selon les travaux de Kissinger sur les sectes, il s'agit de l'inconfort subit lorsqu'il y a une contradiction chez un individu entre une pensée et un comportement qui va pousser l'individu à trouver différentes manières d'atteindre la consonance, en mettant fin à l'inconfort.
+* Méthode pour surpasser la dissonance cognitive liée à la viande
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: Général
+:ANKI_NOTE_ID: 1738118198791
+:END:
+** Front
+Selon Hank Rothgerber (2020), quelles sont les 5 techniques pour éviter la dissonance cognitive liée à la viande?
+** Back
+- Éviter de penser au problème de la souffrance des individus non-humains;
+- Ignorer le sujet en refusant de s'informer;
+- Dissocier dans son esprit et son langage la viande des animaux, de leur corps;
+- Se convaincre que son comportement ne justifie pas la critique comparativement à d'autres personnes et
+- Se positionner en opposition contre les végans.
+* Qui a inventé le carnisme?
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: Général
+:ANKI_NOTE_ID: 1738120158747
+:END:
+** Front
+Qui a inventé le carnisme?
+** Back
+La sociopsychologue Melanie Joy dans son livre "Should we eat meat?"
+* Qu'est-ce que le carnisme?
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: Général
+:ANKI_NOTE_ID: 1738120158821
+:END:
+** Front
+Qu'est-ce que le carnisme selon Melanie Joy?
+** Back
+Il s'agit d'une idéologie ou d'un système de croyance qui considère que nous devons manger de la viande, en opposition au véganisme.
+* Quelles raisons sont utilisées par le carnisme pour justifier la consommation de la viande?
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: Général
+:ANKI_NOTE_ID: 1738120158862
+:END:
+** Front
+Quelles sont les 4 raisons utilisées par le carnisme pour justifier la consommation de la viande selon Joy et Piazza?
+** Back
+- C'est *normal*;
+- C'est *naturel*;
+- C'est *nécessaire* et
+- Selon Piaza, c'est *Nice*
