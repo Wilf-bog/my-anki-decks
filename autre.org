@@ -1,8 +1,8 @@
-* Lien symboliques
+* Lien symboliques                                                     :bash:
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: Général
-:ANKI_FAILURE_REASON: cannot create note because it is a duplicate
+:ANKI_NOTE_ID: 1738038952225
 :END:
 ** Front
 Quelle est la commande qui permet de faire des liens symboliques?
@@ -10,11 +10,11 @@ Quelle est la commande qui permet de faire des liens symboliques?
 #+begin_src shell
   ln -s ...
 #+end_src
-* Ordre lien symbolique
+* Ordre lien symbolique                                                :bash:
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: Général
-:ANKI_FAILURE_REASON: cannot create note because it is a duplicate
+:ANKI_NOTE_ID: 1738038952275
 :END:
 ** Front
 Quand je veux créer un lien symbolique, dans quel ordre vont =nomdulien= et =nomdufichier=?
@@ -121,3 +121,43 @@ Quelles sont les 4 raisons utilisées par le carnisme pour justifier la consomma
 - C'est *naturel*;
 - C'est *nécessaire* et
 - Selon Piaza, c'est *Nice*
+* Avancer paragraphe anki                                             :emacs:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: Général
+:ANKI_NOTE_ID: 1738038952325
+:END:
+** Front
+Dans Emacs, comment avance-t-on d'un paragraphe?
+** Back
+=M-}=
+* Reculer paragraphe anki                                             :emacs:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: Général
+:ANKI_NOTE_ID: 1738038952372
+:END:
+** Front
+Dans Emacs, comment recule-t-on d'un paragraphe?
+** Back
+=M-{=
+* Joindre des lignes                                                  :emacs:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: Général
+:ANKI_NOTE_ID: 1738038952425
+:END:
+** Front
+Comment peut-on joindre des lignes dans Emacs (pour enlever l'effet =fill-paragraph= ou pour mieux formatter du texte copié d'un PDF ou de =eww=?
+** Back
+=M-^=
+* Quoi ankifier?                                                       :anki:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: Général
+:ANKI_NOTE_ID: 1738038952475
+:END:
+** Front
+Qu'est-ce qu'on devrait « ankifier »?
+** Back
+Ce qui peut servir nos buts à long terme.
