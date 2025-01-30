@@ -1,17 +1,61 @@
 * Influence de Proudhon
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: espagnol personnel
+:ANKI_DECK: Español::Espagnol personnel
 :ANKI_NOTE_ID: 1737940362934
 :END:
 ** Front
 El pensamiento de Proudhon impresionó fuertemente a Marx (quien trató de demolerlo teóricamente en 1847), a Stirner, en Alemania, y a Bakunin, en Rusia.
 
 ** Back
+:PROPERTIES:
+:ID:       56629549-3b74-4dd9-a1a4-98fc32c20d80
+:END:
 La pensée de Proudhon a fortement impressionné Marx (qui a tenté de la démolir théoriquement en 1847), Stirner en Allemagne et Bakounine en Russie.
-* Fortement
+* Es un hombre peligroso, nunca sabes qué va a ser capaz de hacer.
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: Español::Espagnol personnel
+:ANKI_NOTE_ID: 1738207150513
+:END:
+** Front
+C'est un homme dangereux, on ne sait jamais ce qu'il est capable de faire.
+** Back
+Es un hombre peligroso, nunca sabes qué va a ser capaz de hacer.
+* Simultáneamente
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: Español::Espagnol personnel
+:ANKI_NOTE_ID: 1738200103380
+:END:
+** Front
+En même temps.
+** Back
+Simultáneamente
+* Les deux langues
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: Español::Espagnol personnel
+:ANKI_NOTE_ID: 1738200103434
+:END:
+** Front
+Les deux langues
+** Back
+Las dos lenguas
+* Il se passe beaucoup de choses
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_DECK: Español::Espagnol personnel
+:ANKI_NOTE_ID: 1738168893003
+:END:
+** Front
+Il se passe beaucoup de choses.
+** Back
+Pasan muchas cosas
+* Fortement
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_DECK: Español::Espagnol personnel
 :ANKI_NOTE_ID: 1737944322079
 :END:
 ** Front
@@ -21,25 +65,49 @@ fortement
 * Pensée
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: Español::Espagnol personnel
 :ANKI_NOTE_ID: 1737944193727
 :END:
 ** Front
 pensamiento
 ** Back
 pensée, thoughts
+* Imaginons plus d'utopies!
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_DECK: Español::Espagnol personnel
+:ANKI_NOTE_ID: 1738169472915
+:END:
+** Front
+Imaginons plus d'utopies!
+** Back
+Imaginemos más utopías!
 * Théoriquement
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_NOTE_ID: 1737944321977
+:ANKI_DECK: Español::Espagnol personnel
 :END:
 ** Front
 teóricamente
 ** Back
 théoriquement
-* Démolir
+* Personne ne répond jamais quand on en a besoin.
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_DECK: Español::Espagnol personnel
+:ANKI_NOTE_ID: 1738200103483
+:END:
+** Front
+Personne ne répond jamais quand on en a besoin.
+** Back
+Nunca responde nadie cuando lo necesitas.
+* Démolir                                                            :ATTACH:
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: Español::Espagnol personnel
 :ANKI_NOTE_ID: 1737944322029
+:ID:       321e9581-dbcb-4b4b-8d70-fd5bf15c42ab
 :END:
 ** Front
 demolerlo
@@ -48,7 +116,7 @@ démolir
 * Naturisme
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: espagnol personnel
+:ANKI_DECK: Español::Espagnol personnel
 :ANKI_NOTE_ID: 1737948086483
 :END:
 ** Front
@@ -58,7 +126,7 @@ Le naturisme a promu un point de vue écologique, de petites communes écologiqu
 * Point de vue
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: espagnol personnel
+:ANKI_DECK: Español::Espagnol personnel
 :ANKI_NOTE_ID: 1737948127902
 :END:
 ** Front
@@ -68,7 +136,7 @@ un point de vue
 * Promouvoir
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
-:ANKI_DECK: espagnol personnel
+:ANKI_DECK: Español::Espagnol personnel
 :ANKI_NOTE_ID: 1737948301979
 :END:
 ** Front

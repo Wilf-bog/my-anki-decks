@@ -1,163 +1,301 @@
-* Lien symboliques                                                     :bash:
+* Notes transférées
+** Lien symboliques
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: Général
 :ANKI_NOTE_ID: 1738038952225
 :END:
-** Front
+*** Front
 Quelle est la commande qui permet de faire des liens symboliques?
-** Back
+*** Back
 #+begin_src shell
   ln -s ...
 #+end_src
-* Ordre lien symbolique                                                :bash:
+** Ordre lien symbolique
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: Général
 :ANKI_NOTE_ID: 1738038952275
 :END:
-** Front
+*** Front
 Quand je veux créer un lien symbolique, dans quel ordre vont =nomdulien= et =nomdufichier=?
-** Back
+*** Back
 =nomdufichier= =nomdulien=
-* Qu'est-ce que touche l'accessibilité universelle                  :exaequo:
+** Selon la Vegan Society, le véganisme est deux choses à la fois. Quelles sont ces deux choses?
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: Général
+:ANKI_NOTE_ID: 1738200244896
+:END:
+*** Front
+Selon la Vegan Society, le véganisme est deux choses à la fois. Quelles sont ces deux choses?
+*** Back
+Une philosophie et une façon de vivre.
+#+begin_quote
+    « Une *philosophie et façon de vivre* qui cherche à exclure – dans la mesure du possible – toute forme d’exploitation et de cruauté envers les animaux, que ce soit pour se nourrir, s'habiller, ou pour tout autre but, et par extension, faire la promotion du développement et l'usage d’alternatives sans exploitation animale, pour le bénéfice des humains, des animaux et de l'environnement. En matière diététique, il désigne la pratique de se passer de tous les produits dérivés en tout ou partie d'animaux. »
+#+end_quote
+** Quel est le nom du cousin d'Oli?
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: Général
+:ANKI_NOTE_ID: 1738200244920
+:END:
+*** Front
+Quel est le nom du cousin d'Oli?
+*** Back
+Félix
+** Quel est le nom de la cousine d'Oli?
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: Général
+:ANKI_NOTE_ID: 1738200245021
+:END:
+*** Front
+Quel est le nom de la cousine d'Oli?
+*** Back
+Barbara Gauvin
+** Quel est le nom du père d'Oli?
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: Général
+:ANKI_NOTE_ID: 1738200245072
+:END:
+*** Front
+Quel est le nom du père d'Oli?
+*** Back
+Bernard Gauvin
+** Quel est le nom du frère d'Oli?
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: Général
+:ANKI_NOTE_ID: 1738200245123
+:END:
+*** Front
+Quel est le nom du frère d'Oli?
+*** Back
+David Gauvin
+** Quel est le nom de la tante d'Oli?
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: Général
+:ANKI_NOTE_ID: 1738200245182
+:END:
+*** Front
+Quel est le nom de la tante d'Oli?
+*** Back
+Laurence Gauvin
+** Quel est le nom de l'oncle d'Oli?
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: Général
+:ANKI_NOTE_ID: 1738200245298
+:END:
+*** Front
+Quel est le nom de l'oncle d'Oli?
+*** Back
+Jacques Gauvin
+** Quel est le nom complet de Diego?
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: Général
+:ANKI_NOTE_ID: 1738200245358
+:END:
+*** Front
+Quel est le nom complet de Diego?
+*** Back
+Diego Rodriguez Peniche
+** Quelle nuance importante fait partie de la définition du véganisme selon la Vegan Society?
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: Général
+:ANKI_NOTE_ID: 1738200245398
+:END:
+*** Front
+Quelle nuance importante fait partie de la définition du véganisme selon la Vegan Society?
+*** Back
+L'exclusion des formes d'exploitation et de cruauté des animaux se fait *dans la mesure du possible*.
+** À qui est censé bénéficier le véganisme, selon la définition officielle de la Vegan Society?
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: Général
+:ANKI_NOTE_ID: 1738200245457
+:END:
+*** Front
+À qui est censé bénéficier le véganisme, selon la définition officielle de la Vegan Society?
+*** Back
+- Les êtres humains;
+- Les animaux et
+- L'environnement.
+
+  #+begin_quote
+    « Une philosophie et façon de vivre qui cherche à exclure – dans la mesure du possible – toute forme d’exploitation et de cruauté envers les animaux, que ce soit pour se nourrir, s'habiller, ou pour tout autre but, et par extension, faire la promotion du développement et l'usage d’alternatives sans exploitation animale, *pour le bénéfice des humains, des animaux et de l'environnement*. En matière diététique, il désigne la pratique de se passer de tous les produits dérivés en tout ou partie d'animaux. »
+#+end_quote
+** Qu'est-ce que touche l'accessibilité universelle                :exaequo:
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: Général
 :ANKI_NOTE_ID: 1738114818103
 :END:
-** Front
+*** Front
 Quels sont les 5 éléments couverts par la définition de l'accessibilité universelle du Groupe DÉFI Accessibilité?
-** Back
+*** Back
 1. Les produits;
 2. Les procédés;
 3. Les services;
 4. Les informations;
 5. Les environnements.
-* Le but porté par l'accessibilité universelle                      :exaequo:
+** Le but porté par l'accessibilité universelle                    :exaequo:
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: Général
 :ANKI_NOTE_ID: 1738114818153
 :END:
-** Front
+*** Front
 Quel est le but derrière l'accessibilité universelle selon le Groupe DÉFI Accessibilité?
-** Back
+*** Back
 L'accessibilité Universelle agit dans un but d'équité.
-* L'augmentation de l'offre n'est pas une solution à la crise du logement :exaequo:
+** L'augmentation de l'offre n'est pas une solution à la crise du logement :exaequo:
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: Général
 :ANKI_NOTE_ID: 1738114818262
 :END:
-** Front
+*** Front
 Pourquoi l'augmentation de l'offre n'est pas une bonne solution à la crise du logement?
-** Back
+*** Back
 Parce que trop souvent les nouveaux logements sont trop chers et sans contrôle des loyens, rien n'empêchent les propriétaires d'augmenter leur loyer.
-* Qui a théorisé la dissonance cognitive?
+** Qui a théorisé la dissonance cognitive?
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: Général
 :ANKI_NOTE_ID: 1738118198605
 :END:
-** Front
+*** Front
 Qui a théorisé la dissonance cognitive?
-** Back
+*** Back
 Le sociopsychologue Leon Festinger
-* Définition dissonance cognitice
+** Définition dissonance cognitice
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: Général
 :ANKI_NOTE_ID: 1738118198670
 :END:
-** Front
+*** Front
 Qu'est-ce que la dissonance cognitive?
-** Back
+*** Back
 Selon les travaux de Kissinger sur les sectes, il s'agit de l'inconfort subit lorsqu'il y a une contradiction chez un individu entre une pensée et un comportement qui va pousser l'individu à trouver différentes manières d'atteindre la consonance, en mettant fin à l'inconfort.
-* Méthode pour surpasser la dissonance cognitive liée à la viande
+** Méthode pour surpasser la dissonance cognitive liée à la viande
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: Général
 :ANKI_NOTE_ID: 1738118198791
 :END:
-** Front
+*** Front
 Selon Hank Rothgerber (2020), quelles sont les 5 techniques pour éviter la dissonance cognitive liée à la viande?
-** Back
+*** Back
 - Éviter de penser au problème de la souffrance des individus non-humains;
 - Ignorer le sujet en refusant de s'informer;
 - Dissocier dans son esprit et son langage la viande des animaux, de leur corps;
 - Se convaincre que son comportement ne justifie pas la critique comparativement à d'autres personnes et
 - Se positionner en opposition contre les végans.
-* Qui a inventé le carnisme?
+** Qui a inventé le carnisme?
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: Général
 :ANKI_NOTE_ID: 1738120158747
 :END:
-** Front
+*** Front
 Qui a inventé le carnisme?
-** Back
+*** Back
 La sociopsychologue Melanie Joy dans son livre "Should we eat meat?"
-* Qu'est-ce que le carnisme?
+** Qu'est-ce que le carnisme?
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: Général
 :ANKI_NOTE_ID: 1738120158821
 :END:
-** Front
+*** Front
 Qu'est-ce que le carnisme selon Melanie Joy?
-** Back
+*** Back
 Il s'agit d'une idéologie ou d'un système de croyance qui considère que nous devons manger de la viande, en opposition au véganisme.
-* Quelles raisons sont utilisées par le carnisme pour justifier la consommation de la viande?
+** Quelles raisons sont utilisées par le carnisme pour justifier la consommation de la viande?
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: Général
 :ANKI_NOTE_ID: 1738120158862
 :END:
-** Front
+*** Front
 Quelles sont les 4 raisons utilisées par le carnisme pour justifier la consommation de la viande selon Joy et Piazza?
-** Back
+*** Back
 - C'est *normal*;
 - C'est *naturel*;
 - C'est *nécessaire* et
 - Selon Piaza, c'est *Nice*
-* Avancer paragraphe anki                                             :emacs:
+** Avancer paragraphe anki                                              :emacs:
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: Général
 :ANKI_NOTE_ID: 1738038952325
 :END:
-** Front
+*** Front
 Dans Emacs, comment avance-t-on d'un paragraphe?
-** Back
+*** Back
 =M-}=
-* Reculer paragraphe anki                                             :emacs:
+** Reculer paragraphe anki                                              :emacs:
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: Général
 :ANKI_NOTE_ID: 1738038952372
 :END:
-** Front
+*** Front
 Dans Emacs, comment recule-t-on d'un paragraphe?
-** Back
+*** Back
 =M-{=
-* Joindre des lignes                                                  :emacs:
+** Joindre des lignes                                                   :emacs:
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: Général
 :ANKI_NOTE_ID: 1738038952425
 :END:
-** Front
+*** Front
 Comment peut-on joindre des lignes dans Emacs (pour enlever l'effet =fill-paragraph= ou pour mieux formatter du texte copié d'un PDF ou de =eww=?
-** Back
+*** Back
 =M-^=
-* Quoi ankifier?                                                       :anki:
+** Quoi ankifier?                                                        :anki:
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: Général
 :ANKI_NOTE_ID: 1738038952475
 :END:
-** Front
+*** Front
 Qu'est-ce qu'on devrait « ankifier »?
-** Back
+*** Back
 Ce qui peut servir nos buts à long terme.
+* Notes en cours
+** Comment peut-on enregistrer une macro avec Emacs?
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: Général
+:END:
+*** Front
+Comment peut-on enregistrer une macro avec Emacs?
+*** Back
+=C-x (=
+** Comment arrêter l'enregistrement une macro avec Emacs?
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: Général
+:END:
+*** Front
+Comment arrêter l'enregistrement une macro avec Emacs?
+*** Back
+=C-x )=
+** Comment peut-on évoquer la dernière macro enregistrée avec Emacs?
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: Général
+:END:
+*** Front
+Comment peut-on évoquer la dernière macro enregistrée avec Emacs?
+*** Back
+=kmacro-call-macro=
