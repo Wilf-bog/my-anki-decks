@@ -276,6 +276,7 @@ Ce qui peut servir nos buts à long terme.
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: Général
+:ANKI_NOTE_ID: 1738208038433
 :END:
 *** Front
 Comment peut-on enregistrer une macro avec Emacs?
@@ -285,6 +286,7 @@ Comment peut-on enregistrer une macro avec Emacs?
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: Général
+:ANKI_NOTE_ID: 1738208038551
 :END:
 *** Front
 Comment arrêter l'enregistrement une macro avec Emacs?
@@ -294,6 +296,7 @@ Comment arrêter l'enregistrement une macro avec Emacs?
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: Général
+:ANKI_NOTE_ID: 1738208038632
 :END:
 *** Front
 Comment peut-on évoquer la dernière macro enregistrée avec Emacs?
