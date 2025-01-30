@@ -302,3 +302,12 @@ Comment arrêter l'enregistrement une macro avec Emacs?
 Comment peut-on évoquer la dernière macro enregistrée avec Emacs?
 *** Back
 =kmacro-call-macro=
+** Comment accéder au manuel de CD?
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1738122021526
+:END:
+*** Front
+Comment accéder au manuel (=man=) de =cd=?
+*** Back
+=man builtins=
