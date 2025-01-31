@@ -147,6 +147,7 @@ Promouvoir
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: Español::Espagnol personnel
+:ANKI_NOTE_ID: 1738302486312
 :END:
 ** Front
 A link has been copied on the clipboard
@@ -156,6 +157,7 @@ Se ha copiado un enlace en el portapapeles
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: Español::Espagnol personnel
+:ANKI_NOTE_ID: 1738302486360
 :END:
 ** Front
 To take a look back
