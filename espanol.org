@@ -143,21 +143,21 @@ un point de vue
 Promover
 ** Back
 Promouvoir
-** A link has been copied on the clipboard
+* A link has been copied on the clipboard
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: Español::Espagnol personnel
 :END:
-*** Front
+** Front
 A link has been copied on the clipboard
-*** Back
+** Back
 Se ha copiado un enlace en el portapapeles
-** To take a look back
+* To take a look back
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_DECK: Español::Espagnol personnel
 :END:
-*** Front
+** Front
 To take a look back
-*** Back
+** Back
 A echar un vistazo hacia atrás
