@@ -255,5 +255,69 @@ Se ha copiado un enlace en el portapapeles
 To take a look back
 *** Back
 A echar un vistazo hacia atrás
-* Dispatch Shelf
+** 01:54                                                                 :pkm:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: Général
+:ANKI_NOTE_ID: 1738393237427
+:END:
+*** Front
+Qu'elle est notre relation avec notre soi du futur?
+*** Back
 
+https://zettelkasten.de/
+#+begin_quote
+So, what’s the verdict, then? Whatever you do, do it as an act of service to your
+future self.
+
+Technically, the moment you, the present self, come into being, you die and become
+the past. Truly process for your future self and instead of asking how to save time
+and energy now, focus on creating value that you want to be created in the future.
+#+end_quote
+** 01:51                                                                :pkm:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: Général
+:ANKI_NOTE_ID: 1738393237402
+:END:
+*** Front
+Qu'est-ce qui pose problème avec la gestion du temps de nos jours?
+*** Back
+La perte de compétence so socialisation et en motivation sociale.
+#+begin_quote
+1 The skill of managing time is partially a social skill. As we come to realize: One
+ characteristic of modernity is the break-down of social skills and social
+ motivations. So, it is a combination of lack of skill and lack of motivation.
+2 We can use models of social interactions to understand our relationship towards our
+ future self.
+#+end_quote
+https://zettelkasten.de/
+** 01:45                                                                 :pkm:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: Général
+:ANKI_NOTE_ID: 1738393237277
+:END:
+*** Front
+Comment percevons-nous notre futur soi?
+*** Back
+Comme une autre personne entièrement:
+
+#+begin_quote
+Neurologically speaking, *our future self is processed as another person*. That means
+that we don’t have a relationship to ourselves, but to another person. There is quite
+some research on how we fail to engage in delayed gratification and engage in future
+discounting because we fail to empathize with our future self.
+#+end_quote
+https://zettelkasten.de/
+** 01:49                                                                :pkm:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_DECK: Général
+:ANKI_NOTE_ID: 1738393237302
+:END:
+*** Front
+Pourquoi est-ce que la gestion du temps est une compétence sociale?
+*** Back
+Parce que une bonne ou une mauvaise gestion du temps a un impact sur les autres et /notre futur soi/.
+* Dispatch Shelf
